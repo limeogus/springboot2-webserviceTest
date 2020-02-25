@@ -1,5 +1,9 @@
 # Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
-/build/classes/java/test/
+.gradle
+.idea
+
+#기존
+#/.gradle/
+#/build/
+#/build/classes/java/main/
+#/build/classes/java/test/
